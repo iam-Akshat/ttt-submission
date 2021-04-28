@@ -3,6 +3,7 @@
 This is the submission for Software Engineer Intern role.
 
 # Frontend in react hosted on netlify
+![app screenshot](./ttt.png)
 [Frontend Repo](https://github.com/iam-Akshat/ttt-front)
 [Frontend Live link](https://awesome-heyrovsky-54802a.netlify.app/)
 - ## Libraries used
